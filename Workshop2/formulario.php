@@ -4,10 +4,8 @@
 
 <head>
 <meta charset="UTF-8">
-<title>Registro de Usuario</title>
-
+    <title>Registro de Usuario</title>
     <link rel="stylesheet" href="formulario.css?v=1.0">
-
 </head>
 
 <body>
@@ -32,5 +30,6 @@
 </body>
 
 </html>
+
 
 
